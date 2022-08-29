@@ -1,0 +1,16 @@
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.exe
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.deps.json
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.runtimeconfig.json
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.runtimeconfig.dev.json
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\bin\Debug\net5.0\ErrorAlCubo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.AssemblyInfo.cs
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\refint\ErrorAlCubo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\ErrorAlCubo.genruntimeconfig.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ErrorAlCubo\obj\Debug\net5.0\ref\ErrorAlCubo.dll

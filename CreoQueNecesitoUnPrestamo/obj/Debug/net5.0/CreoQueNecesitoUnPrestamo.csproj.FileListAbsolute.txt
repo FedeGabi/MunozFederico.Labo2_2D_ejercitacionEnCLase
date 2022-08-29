@@ -1,0 +1,16 @@
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.exe
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.deps.json
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.runtimeconfig.json
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.runtimeconfig.dev.json
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\bin\Debug\net5.0\CreoQueNecesitoUnPrestamo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.AssemblyInfo.cs
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\refint\CreoQueNecesitoUnPrestamo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\CreoQueNecesitoUnPrestamo.genruntimeconfig.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\CreoQueNecesitoUnPrestamo\obj\Debug\net5.0\ref\CreoQueNecesitoUnPrestamo.dll

@@ -1,0 +1,16 @@
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\bin\Debug\net5.0\TrianguloEquilatero.exe
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\bin\Debug\net5.0\TrianguloEquilatero.deps.json
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\bin\Debug\net5.0\TrianguloEquilatero.runtimeconfig.json
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\bin\Debug\net5.0\TrianguloEquilatero.runtimeconfig.dev.json
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\bin\Debug\net5.0\TrianguloEquilatero.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\bin\Debug\net5.0\TrianguloEquilatero.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\TrianguloEquilatero.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\TrianguloEquilatero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\TrianguloEquilatero.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\TrianguloEquilatero.AssemblyInfo.cs
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\TrianguloEquilatero.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\TrianguloEquilatero.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\refint\TrianguloEquilatero.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\TrianguloEquilatero.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\TrianguloEquilatero.genruntimeconfig.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloEquilatero\obj\Debug\net5.0\ref\TrianguloEquilatero.dll

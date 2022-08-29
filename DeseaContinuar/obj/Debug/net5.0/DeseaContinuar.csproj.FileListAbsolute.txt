@@ -1,0 +1,16 @@
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.exe
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.deps.json
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.runtimeconfig.json
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.runtimeconfig.dev.json
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\bin\Debug\net5.0\DeseaContinuar.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.AssemblyInfo.cs
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\refint\DeseaContinuar.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\DeseaContinuar.genruntimeconfig.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\DeseaContinuar\obj\Debug\net5.0\ref\DeseaContinuar.dll

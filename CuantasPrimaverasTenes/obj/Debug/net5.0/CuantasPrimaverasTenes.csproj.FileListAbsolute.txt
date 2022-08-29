@@ -1,0 +1,16 @@
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\bin\Debug\net5.0\CuantasPrimaverasTenes.exe
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\bin\Debug\net5.0\CuantasPrimaverasTenes.deps.json
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\bin\Debug\net5.0\CuantasPrimaverasTenes.runtimeconfig.json
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\bin\Debug\net5.0\CuantasPrimaverasTenes.runtimeconfig.dev.json
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\bin\Debug\net5.0\CuantasPrimaverasTenes.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\bin\Debug\net5.0\CuantasPrimaverasTenes.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\CuantasPrimaverasTenes.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\CuantasPrimaverasTenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\CuantasPrimaverasTenes.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\CuantasPrimaverasTenes.AssemblyInfo.cs
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\CuantasPrimaverasTenes.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\CuantasPrimaverasTenes.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\refint\CuantasPrimaverasTenes.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\CuantasPrimaverasTenes.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\CuantasPrimaverasTenes.genruntimeconfig.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\CuantasPrimaverasTenes\obj\Debug\net5.0\ref\CuantasPrimaverasTenes.dll

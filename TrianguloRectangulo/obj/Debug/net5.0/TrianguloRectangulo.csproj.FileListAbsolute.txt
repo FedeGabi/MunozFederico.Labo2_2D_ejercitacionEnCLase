@@ -1,0 +1,16 @@
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\bin\Debug\net5.0\TrianguloRectangulo.exe
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\bin\Debug\net5.0\TrianguloRectangulo.deps.json
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\bin\Debug\net5.0\TrianguloRectangulo.runtimeconfig.json
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\bin\Debug\net5.0\TrianguloRectangulo.runtimeconfig.dev.json
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\bin\Debug\net5.0\TrianguloRectangulo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\bin\Debug\net5.0\TrianguloRectangulo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\TrianguloRectangulo.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\TrianguloRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\TrianguloRectangulo.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\TrianguloRectangulo.AssemblyInfo.cs
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\TrianguloRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\TrianguloRectangulo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\refint\TrianguloRectangulo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\TrianguloRectangulo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\TrianguloRectangulo.genruntimeconfig.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\TrianguloRectangulo\obj\Debug\net5.0\ref\TrianguloRectangulo.dll

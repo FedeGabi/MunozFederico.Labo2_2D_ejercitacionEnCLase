@@ -1,0 +1,16 @@
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\bin\Debug\net5.0\maximoMinimo.exe
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\bin\Debug\net5.0\maximoMinimo.deps.json
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\bin\Debug\net5.0\maximoMinimo.runtimeconfig.json
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\bin\Debug\net5.0\maximoMinimo.runtimeconfig.dev.json
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\bin\Debug\net5.0\maximoMinimo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\bin\Debug\net5.0\maximoMinimo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\maximoMinimo.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\maximoMinimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\maximoMinimo.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\maximoMinimo.AssemblyInfo.cs
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\maximoMinimo.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\maximoMinimo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\refint\maximoMinimo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\maximoMinimo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\maximoMinimo.genruntimeconfig.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\maximoMinimo\obj\Debug\net5.0\ref\maximoMinimo.dll

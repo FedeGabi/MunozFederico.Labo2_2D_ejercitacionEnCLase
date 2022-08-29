@@ -1,0 +1,16 @@
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\bin\Debug\net5.0\ValidadorDeRangos.exe
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\bin\Debug\net5.0\ValidadorDeRangos.deps.json
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\bin\Debug\net5.0\ValidadorDeRangos.runtimeconfig.json
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\bin\Debug\net5.0\ValidadorDeRangos.runtimeconfig.dev.json
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\bin\Debug\net5.0\ValidadorDeRangos.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\bin\Debug\net5.0\ValidadorDeRangos.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\ValidadorDeRangos.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\ValidadorDeRangos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\ValidadorDeRangos.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\ValidadorDeRangos.AssemblyInfo.cs
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\ValidadorDeRangos.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\ValidadorDeRangos.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\refint\ValidadorDeRangos.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\ValidadorDeRangos.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\ValidadorDeRangos.genruntimeconfig.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ValidadorDeRangos\obj\Debug\net5.0\ref\ValidadorDeRangos.dll

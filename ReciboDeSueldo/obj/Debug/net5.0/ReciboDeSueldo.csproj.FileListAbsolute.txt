@@ -1,0 +1,16 @@
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\ReciboDeSueldo.csproj.AssemblyReference.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\ReciboDeSueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\ReciboDeSueldo.AssemblyInfoInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\ReciboDeSueldo.AssemblyInfo.cs
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\ReciboDeSueldo.csproj.CoreCompileInputs.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\bin\Debug\net5.0\ReciboDeSueldo.exe
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\bin\Debug\net5.0\ReciboDeSueldo.deps.json
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\bin\Debug\net5.0\ReciboDeSueldo.runtimeconfig.json
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\bin\Debug\net5.0\ReciboDeSueldo.runtimeconfig.dev.json
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\bin\Debug\net5.0\ReciboDeSueldo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\bin\Debug\net5.0\ReciboDeSueldo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\ReciboDeSueldo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\refint\ReciboDeSueldo.dll
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\ReciboDeSueldo.pdb
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\ReciboDeSueldo.genruntimeconfig.cache
+C:\Users\fedec\source\repos\EjerciciosGuia\ReciboDeSueldo\obj\Debug\net5.0\ref\ReciboDeSueldo.dll

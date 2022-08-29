@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "maximoMinimo/1.0.0": {
+        "runtime": {
+          "maximoMinimo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "maximoMinimo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
